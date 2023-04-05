@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <Home/>
      <div className="container-fluid doubleShade">
-      <Eventtimeline/>
       <About/>
+      <Eventtimeline/>
       <Contact/>
      </div>
     </div>
